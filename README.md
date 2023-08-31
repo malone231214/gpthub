@@ -2,5 +2,9 @@
 
 
 
+https://www.youtube.com/watch?v=ct20Kv8yn0U 向量数据库
+
+
+
 ![aaa](./lesson.jpg)
 
